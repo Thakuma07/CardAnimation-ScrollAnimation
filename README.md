@@ -1,4 +1,5 @@
 # 🏛️ Museum of Money — Horizontal Scroll Section
+<img width="1920" height="1080" alt="Screenshot (353)" src="https://github.com/user-attachments/assets/8c51f61e-5fd5-440b-8598-0e333bcf1317" />
 
 A **premium horizontal scroll experience** built with React, GSAP ScrollTrigger, and Tailwind CSS v4. Inspired by modern award-winning museum and gallery websites.
 
